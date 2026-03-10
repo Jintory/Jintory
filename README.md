@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
 ### Blog
@@ -18,5 +19,5 @@
 ### BaekJoon
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=cookjin)](https://solved.ac/cookjin/)
 
-### 🐍 Contributions Snake
-![snake](https://raw.githubusercontent.com/Jintory/Jintory/output/github-contribution-grid-snake.svg)
+### 🌱 Contribution Graph
+![](./profile-3d-contrib/profile-green-animate.svg)
